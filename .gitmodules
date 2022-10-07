@@ -4,3 +4,39 @@
 [submodule "bcSource/bc-csharp"]
 	path = bcSource/bc-csharp
 	url = git@github.com:Davo176/bc-csharp.git
+[submodule "refSources/sphincsplus"]
+	path = refSources/sphincsplus
+	url = git@github.com:Davo176/sphincsplus.git
+[submodule "refSources/CMCE"]
+	path = refSources/CMCE
+	url = git@github.com:Davo176/CMCE.git
+[submodule "refSources/picnic"]
+	path = refSources/picnic
+	url = git@github.com:Davo176/picnic.git
+[submodule "refSources/sike"]
+	path = refSources/sike
+	url = git@github.com:Davo176/sike.git
+[submodule "refSources/frodo"]
+	path = refSources/frodo
+	url = git@github.com:Davo176/frodo.git
+[submodule "refSources/bike"]
+	path = refSources/bike
+	url = git@github.com:Davo176/bike.git
+[submodule "refSources/falcon"]
+	path = refSources/falcon
+	url = git@github.com:Davo176/falcon.git
+[submodule "refSources/dilithium"]
+	path = refSources/dilithium
+	url = git@github.com:Davo176/dilithium.git
+[submodule "refSources/SABER"]
+	path = refSources/SABER
+	url = git@github.com:Davo176/SABER.git
+[submodule "refSources/NTRUPrime"]
+	path = refSources/NTRUPrime
+	url = git@github.com:Davo176/NTRUPrime.git
+[submodule "refSources/ntru"]
+	path = refSources/ntru
+	url = git@github.com:Davo176/ntru.git
+[submodule "refSources/kyber"]
+	path = refSources/kyber
+	url = git@github.com:Davo176/kyber.git
