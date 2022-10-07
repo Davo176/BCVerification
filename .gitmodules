@@ -1,0 +1,6 @@
+[submodule "bcSource/bc-java"]
+	path = bcSource/bc-java
+	url = git@github.com:Davo176/bc-java.git
+[submodule "bcSource/bc-csharp"]
+	path = bcSource/bc-csharp
+	url = git@github.com:Davo176/bc-csharp.git
