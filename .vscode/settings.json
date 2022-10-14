@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "saber_params.h": "c"
+        "saber_params.h": "c",
+        "api_frodo640.h": "c",
+        "rng.h": "c"
     }
 }
