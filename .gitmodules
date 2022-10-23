@@ -10,18 +10,22 @@
 [submodule "refSources/CMCE"]
 	path = refSources/CMCE
 	url = git@github.com:Davo176/CMCE.git
+	branch=main
 [submodule "refSources/picnic"]
 	path = refSources/picnic
 	url = git@github.com:Davo176/picnic.git
+	branch = main
 [submodule "refSources/sike"]
 	path = refSources/sike
 	url = git@github.com:Davo176/sike.git
+	branch = main
 [submodule "refSources/frodo"]
 	path = refSources/frodo
 	url = git@github.com:Davo176/frodo.git
 [submodule "refSources/bike"]
 	path = refSources/bike
 	url = git@github.com:Davo176/bike.git
+	branch = main
 [submodule "refSources/falcon"]
 	path = refSources/falcon
 	url = git@github.com:Davo176/falcon.git
