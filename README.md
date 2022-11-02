@@ -1,6 +1,6 @@
 This repository contains 14 submodules, therefore you should clone it using:
 
-```*git clone --recurse-submodules git@github.com:Davo176/BCVerification.git*```
+```git clone --recurse-submodules git@github.com:Davo176/BCVerification.git```
 
 This repository is split into two sections
 
