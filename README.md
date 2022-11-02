@@ -16,3 +16,5 @@ and additional test cases are located in: _/bcSource/bc-java/core/src/test/java/
 These test cases were ran using NUnit / JUnit respectively, you should be able to run these from your IDE.
 
 in each of the reference implementations, there is a readme that contains instructions on how to build the test cases. 
+
+Interoperability testing is completed by copying and pasting files between reference and bouncy castle implementations
